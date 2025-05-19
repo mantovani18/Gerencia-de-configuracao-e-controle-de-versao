@@ -8,7 +8,7 @@
       /* Estilos globais */
       body {
         font-family: Arial, sans-serif;
-        background-color: #f4f4f9;
+        background-color: #000000;
         color: #333;
         line-height: 1.6;
         padding: 20px;
@@ -29,7 +29,7 @@
         max-width: 1000px;
         margin: 0 auto;
         padding: 20px;
-        background-color: #fff;
+        background-color: #ffffff;
         box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
       }
   
@@ -80,4 +80,8 @@
         font-size: 0.9em;
         color: #777;
         margin-top: 40px;
+      }
+
+      a{
+        color: limegreen;
       }
